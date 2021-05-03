@@ -1,11 +1,11 @@
 #include <iostream>
 #include <string>
 
-/*This task is a substitution cipher
+/* This task is a substitution cipher
  * The letters in a message is encrypted by the keychain
  * According to the serial of the alphabet
  * for example a is replace by X
- */
+ * */
 
 using namespace std;
 
