@@ -10,7 +10,7 @@ using namespace std;
  * According to user choice different tasks can be performed on numbers
  * */
 
-//functions prototypes
+//function prototypes
 void display_menu ();
 char input_handler (char &selection);
 void function_caller (char &selection, vector <int> &numbers);
