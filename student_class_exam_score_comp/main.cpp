@@ -1,5 +1,4 @@
 #include "Student.h"
-#include "Student.cpp"
 
 /*
 Kristen is a contender for valedictorian of her high school. 
